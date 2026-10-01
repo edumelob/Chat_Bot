@@ -17,8 +17,8 @@ Chatbot de terminal em português que **entende variações e erros de digitaç�
 ## Como executar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone (https://github.com/edumelob/Chat_Bot)
+cd Chat Bot
 python -m chatbot
 ```
 
