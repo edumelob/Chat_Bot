@@ -1,0 +1,271 @@
+{
+  "entradas": [
+    {
+      "perguntas": [
+        "olá",
+        "oi",
+        "hello",
+        "opa",
+        "salve"
+      ],
+      "respostas": [
+        "Olá! Como você está?",
+        "Oi! Tudo bem com você?"
+      ]
+    },
+    {
+      "perguntas": [
+        "bom dia"
+      ],
+      "respostas": [
+        "Bom dia! Como você está?"
+      ]
+    },
+    {
+      "perguntas": [
+        "boa tarde"
+      ],
+      "respostas": [
+        "Boa tarde! Como você está?"
+      ]
+    },
+    {
+      "perguntas": [
+        "boa noite"
+      ],
+      "respostas": [
+        "Boa noite! Como você está?"
+      ]
+    },
+    {
+      "perguntas": [
+        "como você está",
+        "como vai você",
+        "tudo bem",
+        "como você vai",
+        "tudo certo"
+      ],
+      "respostas": [
+        "Estou bem, obrigado por perguntar! E você?",
+        "Tudo ótimo por aqui! E com você?"
+      ]
+    },
+    {
+      "perguntas": [
+        "estou bem",
+        "estou ótimo",
+        "tudo bem comigo",
+        "estou feliz",
+        "estou animado"
+      ],
+      "respostas": [
+        "Que bom!",
+        "Fico feliz em saber!"
+      ]
+    },
+    {
+      "perguntas": [
+        "estou mal",
+        "estou triste",
+        "não estou bem",
+        "estou cansado",
+        "não estou bem hoje"
+      ],
+      "respostas": [
+        "Poxa, sinto muito. Quer conversar sobre isso?"
+      ]
+    },
+    {
+      "perguntas": [
+        "qual é o seu nome",
+        "como você se chama",
+        "quem é você",
+        "qual seu nome",
+        "seu nome",
+        "como posso te chamar"
+      ],
+      "respostas": [
+        "Meu nome é {nome}.",
+        "Eu sou o {nome}, um chatbot feito em Python."
+      ]
+    },
+    {
+      "perguntas": [
+        "qual é o meu nome",
+        "você sabe meu nome",
+        "como eu me chamo"
+      ],
+      "respostas": [
+        "Ainda não sei o seu nome, mas é um prazer conversar com você!"
+      ]
+    },
+    {
+      "perguntas": [
+        "o que você faz",
+        "para que você serve",
+        "o que você sabe fazer",
+        "você pode me ajudar",
+        "preciso de ajuda",
+        "me ajuda"
+      ],
+      "respostas": [
+        "Eu converso, respondo perguntas simples (como hora e data) e aprendo com você. Digite /ajuda para ver os comandos."
+      ]
+    },
+    {
+      "perguntas": [
+        "quem criou você",
+        "quem te criou",
+        "quem é seu criador",
+        "quem te fez",
+        "quem te desenvolveu"
+      ],
+      "respostas": [
+        "Fui escrito em Python como um projeto de estudo, sem bibliotecas de inteligência artificial."
+      ]
+    },
+    {
+      "perguntas": [
+        "você é um robô",
+        "você é humano",
+        "você é uma pessoa",
+        "você é real",
+        "você é uma inteligência artificial",
+        "você é uma máquina",
+        "você é um programa",
+        "você é um bot"
+      ],
+      "respostas": [
+        "Sou um programa de computador: um chatbot simples que compara a sua mensagem com o que ele conhece. Não sou uma IA generativa."
+      ]
+    },
+    {
+      "perguntas": [
+        "que horas são",
+        "qual é a hora",
+        "me diga as horas",
+        "horas",
+        "que hora é agora",
+        "hora atual",
+        "me diz as horas",
+        "me fala as horas",
+        "me fale as horas",
+        "sabe que horas são"
+      ],
+      "respostas": [
+        "Agora são {hora}."
+      ]
+    },
+    {
+      "perguntas": [
+        "qual é a data de hoje",
+        "que dia é hoje",
+        "data de hoje",
+        "qual é a data",
+        "em que dia estamos"
+      ],
+      "respostas": [
+        "Hoje é {data}."
+      ]
+    },
+    {
+      "perguntas": [
+        "me conte uma piada",
+        "conte uma piada",
+        "piada",
+        "conta uma piada",
+        "me faça rir"
+      ],
+      "respostas": [
+        "Por que o computador foi ao médico? Porque estava com um vírus!",
+        "Por que os programadores preferem o modo escuro? Porque a luz atrai bugs!",
+        "Qual é o cúmulo da programação? Um loop infinito de trabalho."
+      ]
+    },
+    {
+      "perguntas": [
+        "obrigado",
+        "obrigada",
+        "valeu",
+        "muito obrigado",
+        "agradeço"
+      ],
+      "respostas": [
+        "De nada!",
+        "Por nada! Estou aqui para ajudar."
+      ]
+    },
+    {
+      "perguntas": [
+        "quantos anos você tem",
+        "qual é a sua idade",
+        "que idade você tem"
+      ],
+      "respostas": [
+        "Sou um programa, então não tenho idade como as pessoas."
+      ]
+    },
+    {
+      "perguntas": [
+        "onde você mora",
+        "onde você vive"
+      ],
+      "respostas": [
+        "Moro no seu computador, dentro de um script Python."
+      ]
+    },
+    {
+      "perguntas": [
+        "qual é a sua linguagem favorita",
+        "qual sua linguagem preferida"
+      ],
+      "respostas": [
+        "Python, claro! Foi a linguagem em que fui escrito."
+      ]
+    },
+    {
+      "perguntas": [
+        "como eu te ensino",
+        "como ensinar você",
+        "você aprende",
+        "você consegue aprender"
+      ],
+      "respostas": [
+        "Sim! Digite /ensinar para me ensinar uma nova pergunta e resposta, ou responda \"s\" quando eu disser que não sei algo."
+      ]
+    },
+    {
+      "perguntas": [
+        "você é legal",
+        "você é inteligente",
+        "gostei de você",
+        "você é incrível"
+      ],
+      "respostas": [
+        "Muito obrigado! Fico feliz em ajudar."
+      ]
+    },
+    {
+      "perguntas": [
+        "ok",
+        "entendi",
+        "certo",
+        "beleza"
+      ],
+      "respostas": [
+        "Beleza!"
+      ]
+    },
+    {
+      "perguntas": [
+        "que bom",
+        "legal",
+        "show",
+        "massa"
+      ],
+      "respostas": [
+        "Pois é! Em que mais posso ajudar?"
+      ]
+    }
+  ]
+}

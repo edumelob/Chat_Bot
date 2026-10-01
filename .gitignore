@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# banco de dados criado ao usar o bot (contém o que você ensinou a ele)
+dados/
+*.sqlite3
